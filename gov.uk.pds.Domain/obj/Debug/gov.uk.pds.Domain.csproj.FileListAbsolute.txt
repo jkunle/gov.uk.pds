@@ -1,0 +1,6 @@
+C:\Users\jkunle\Downloads\gov.uk.pds\gov.uk.pds.Domain\bin\Debug\gov.uk.pds.Domain.dll
+C:\Users\jkunle\Downloads\gov.uk.pds\gov.uk.pds.Domain\bin\Debug\gov.uk.pds.Domain.pdb
+C:\Users\jkunle\Downloads\gov.uk.pds\gov.uk.pds.Domain\obj\Debug\gov.uk.pds.Domain.csprojResolveAssemblyReference.cache
+C:\Users\jkunle\Downloads\gov.uk.pds\gov.uk.pds.Domain\obj\Debug\gov.uk.pds.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jkunle\Downloads\gov.uk.pds\gov.uk.pds.Domain\obj\Debug\gov.uk.pds.Domain.dll
+C:\Users\jkunle\Downloads\gov.uk.pds\gov.uk.pds.Domain\obj\Debug\gov.uk.pds.Domain.pdb

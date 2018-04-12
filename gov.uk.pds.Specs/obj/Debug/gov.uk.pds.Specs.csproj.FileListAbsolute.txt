@@ -1,0 +1,2 @@
+C:\Users\jkunle\Downloads\gov.uk.pds\gov.uk.pds.Specs\obj\Debug\gov.uk.pds.Specs.csprojResolveAssemblyReference.cache
+C:\Users\jkunle\Downloads\gov.uk.pds\gov.uk.pds.Specs\obj\Debug\gov.uk.pds.Specs.csproj.CoreCompileInputs.cache
